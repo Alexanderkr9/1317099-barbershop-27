@@ -8,7 +8,7 @@
 
 - Откройте ваш локальный репозиторий в программе GitHub Desktop.
 
-- Нажмите на кнопку в верхней панели «Fetch origin».
+- Нажмите на кнопку в верхней панели «».
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29034537-353cee30-7ba1-11e7-8db2-f18845f308da.png">
 
