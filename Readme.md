@@ -32,4 +32,4 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037898-3f01b510-7bae-11e7-98fb-2bbba7236053.jpg">
 
 Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-наставник Дмитрий Могиль
+наставник Дмитрий Могиль курс НTML CSS 1
