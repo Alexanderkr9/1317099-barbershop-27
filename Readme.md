@@ -1,8 +1,8 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Александр Кривенчук](https://up.htmlacademy.ru/htmlcss/27/user/1317099).
-
----
+* Студент: [Александр Кривенчук](https://up..ru/htmlcss/27/user/1317099).
+htmlacademy
+наставник: [Дмитрий Могиль] ( https://htmlacademy.ru/profile/id398003).
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
@@ -32,4 +32,4 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037898-3f01b510-7bae-11e7-98fb-2bbba7236053.jpg">
 
 Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-наставник Дмитрий Могиль курс НTML CSS 1
+
